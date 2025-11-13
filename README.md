@@ -121,15 +121,15 @@ This dashboard is useful for strategic planning, pricing, and inventory decision
 retail-mobile-sales-dashboard-pbi-excel/
 │
 ├── dashboard/
-│ └── Mobile_Sales_Dashboard.pbix
+│   └── Mobile_Sales_Dashboard.pbix
 │
 ├── data/
-│ └── Mobile_Sales_Data.xlsx
+│   └── Mobile_Sales_Data.xlsx
 │
 ├── images/
-│ ├── Dashboard_Page1.png
-│ ├── MTD_Report_Page2.png
-│ └── Deep_Analysis_Page3.png
+│   ├── Dashboard_Page1.png
+│   ├── MTD_Report_Page2.png
+│   └── Deep_Analysis_Page3.png
 │
 └── README.md
 
