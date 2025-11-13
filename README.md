@@ -118,6 +118,8 @@ This dashboard is useful for strategic planning, pricing, and inventory decision
 ---
 
 ## 📁 Repository Structure
+
+```
 retail-mobile-sales-dashboard-pbi-excel/
 │
 ├── dashboard/
@@ -132,6 +134,8 @@ retail-mobile-sales-dashboard-pbi-excel/
 │   └── Deep_Analysis_Page3.png
 │
 └── README.md
+```
+
 
 ---
 
