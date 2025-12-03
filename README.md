@@ -1,6 +1,16 @@
-
-
 # 📊 Retail Mobile Sales Dashboard (Power BI + Excel)
+
+<p align="center">
+  <img src="images/dashboard.png" width="800">
+</p>
+
+<p align="center">
+  <img src="images/MTD_Report.png" width="800">
+</p>
+
+<p align="center">
+  <img src="images/same_period_last_year.png" width="800">
+</p>
 
 ---
 
